@@ -47,6 +47,7 @@ Old Android
   15. What is the difference between channels and shared flow?
   16. What are themes? How do i convert apps' theme into dark theme?
   17. What is progaurd? Why is it used? What if I want certain files to be skipped from obfuscation.
+  18. Why are modifiers always passed as first parameter?
  
  
  Architecture
